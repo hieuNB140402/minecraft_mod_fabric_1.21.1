@@ -13,3 +13,6 @@
 /gamemode creative HoaiMew
 /gamemode survival
 /gamemode creative
+/gamemode survival
+/gamemode creative
+/function spellbound_weapons:_settings
