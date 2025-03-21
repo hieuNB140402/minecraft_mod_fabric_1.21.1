@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"recipe":"immersive_aircraft:warship","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"immersive_aircraft:cargo_airship","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+]

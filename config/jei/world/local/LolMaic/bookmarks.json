@@ -1,0 +1,7 @@
+[
+  {"version":2},
+  {"recipe":"immersive_aircraft:gyrodyne","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"minecraft:smooth_basalt"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:smooth_sandstone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:armor_stand"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

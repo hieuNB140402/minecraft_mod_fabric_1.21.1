@@ -1,0 +1,15 @@
+/gamemode survival
+/gamemode creative
+/time set day
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/time set day
+/gamemode survival
+/gamemode
+/gamemode creative
+/gamemode survival HoaiMew
+/gamemode creative HoaiMew
+/gamemode survival
+/gamemode creative
