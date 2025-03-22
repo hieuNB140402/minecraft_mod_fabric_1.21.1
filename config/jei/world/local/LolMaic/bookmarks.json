@@ -4,5 +4,6 @@
   {"ingredient":{"id":"minecraft:smooth_basalt"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:smooth_sandstone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:armor_stand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:bamboo_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"minecraft:bamboo_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:golden_carrot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

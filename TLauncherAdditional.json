@@ -1792,6 +1792,359 @@
           "parser": true,
           "totalComments": 0,
           "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 256717,
+          "name": "Clumps",
+          "author": "jaredlll08",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/clumps",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 83,
+              "name": "storage",
+              "shortName": "storage",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            }
+          ],
+          "picture": 787813,
+          "pictures": [],
+          "lanName": "clumps",
+          "version": {
+            "id": 5623729,
+            "name": "fabric-1.21.1-19.0.0.1",
+            "updateDate": 1723535345000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "14628ba309d876cfefc4cef864a66ef12812066c",
+              "size": 20723,
+              "path": "mods/Clumps-fabric-1.21.1-19.0.0.1.jar",
+              "url": "/mods/256717/5623729/Clumps-fabric-1.21.1-19.0.0.1.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "downloadMonth": 1326,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 57,
+            "name": "1.21.4"
+          },
+          "updated": 1734814800000,
+          "update": 1734814800000,
+          "downloadALL": 2671708,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 639842,
+          "name": "Better Combat [Fabric & Forge]",
+          "author": "daedelus_dev",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 787840,
+          "pictures": [
+            337999,
+            344603,
+            344602,
+            338000,
+            338001,
+            345618
+          ],
+          "lanName": "better-combat-by-daedelus",
+          "version": {
+            "id": 6097300,
+            "name": "bettercombat-fabric-2.1.3+1.21.1",
+            "updateDate": 1737146495000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              }
+            ],
+            "metadata": {
+              "sha1": "77cc1da0841def54e17a8a6fb85017732edc6fb1",
+              "size": 805634,
+              "path": "mods/bettercombat-fabric-2.1.3+1.21.1.jar",
+              "url": "/mods/639842/6097300/bettercombat-fabric-2.1.3+1.21.1.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 3667,
+              "name": "playerAnimator",
+              "gameEntityId": 658587,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 332,
+              "name": "Cloth Config API (FabricForgeNeoForge)",
+              "gameEntityId": 348521,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1737061200000,
+          "update": 1737061200000,
+          "downloadALL": 930996,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 547434,
+          "name": "Forge Config API Port",
+          "author": "fuzs_",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 865544,
+          "pictures": [],
+          "lanName": "forge-config-api-port-fabric",
+          "version": {
+            "id": 5982384,
+            "name": "v21.1.3-1.21.1-Fabric",
+            "updateDate": 1733906746000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "e26f1b5dcdb1b05abe9c223bcf47057622afd432",
+              "size": 631046,
+              "path": "mods/ForgeConfigAPIPort-v21.1.3-1.21.1-Fabric.jar",
+              "url": "/mods/547434/5982384/ForgeConfigAPIPort-v21.1.3-1.21.1-Fabric.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 5637,
+              "name": "Forge Config Screens [Forge & Fabric]",
+              "gameEntityId": 544048,
+              "dependencyType": "optional"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 57,
+            "name": "1.21.4"
+          },
+          "updated": 1733864400000,
+          "update": 1733864400000,
+          "downloadALL": 839705,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 243190,
+          "name": "Shoulder Surfing Reloaded",
+          "author": "suinhas Exopandora",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 1033337,
+          "pictures": [
+            227690,
+            227691,
+            227689,
+            227688,
+            227687
+          ],
+          "lanName": "shoulder-surfing-reloaded",
+          "version": {
+            "id": 6316498,
+            "name": "ShoulderSurfing-Fabric-1.21.1-4.10.2",
+            "updateDate": 1742237554000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              }
+            ],
+            "metadata": {
+              "sha1": "8c135695a84d66d4876c86338360c0c02f7fb2e5",
+              "size": 208507,
+              "path": "mods/ShoulderSurfing-Fabric-1.21.1-4.10.2.jar",
+              "url": "/mods/243190/6316498/ShoulderSurfing-Fabric-1.21.1-4.10.2.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 2,
+                "name": "fabric"
+              }
+            ]
+          },
+          "downloadMonth": 370,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 3019,
+              "name": "Better Third Person",
+              "gameEntityId": 435044,
+              "dependencyType": "incompatible"
+            },
+            {
+              "gameType": "mod",
+              "id": 841,
+              "name": "Forge Config API Port",
+              "gameEntityId": 547434,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 6425,
+              "name": "Valkyrien Skies (ForgeFabric)",
+              "gameEntityId": 258371,
+              "dependencyType": "incompatible"
+            },
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 6424,
+              "name": "Nimble (Fabric)",
+              "gameEntityId": 545613,
+              "dependencyType": "incompatible"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 57,
+            "name": "1.21.4"
+          },
+          "updated": 1741122000000,
+          "update": 1741122000000,
+          "downloadALL": 676920,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
         }
       ],
       "resourcePacks": [

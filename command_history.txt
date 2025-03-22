@@ -16,3 +16,6 @@
 /gamemode survival
 /gamemode creative
 /function spellbound_weapons:_settings
+/gamemode survival
+/gamemode creative
+/time set day
